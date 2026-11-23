@@ -1,0 +1,1 @@
+{"name":"automax","version":"1.0.0","description":"Sitio web de Automax, renta de automóviles","main":"server.js","scripts":{"start":"node server.js"},"private":true}
