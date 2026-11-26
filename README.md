@@ -56,30 +56,30 @@ Requiere Git y Node.js. Se recomienda Node.js 20, la versión utilizada en el Do
 ```bash
 git clone https://github.com/a377284/Proyecto-integrador-del-segundo-parcial-equipo1.git
 cd Proyecto-integrador-del-segundo-parcial-equipo1
-npm start
+node server.js
 ```
 Abrir http://localhost:8888. Los mensajes quedan en `data/mensajes.txt`.
 
 ## Ejecución con Docker
 Requiere Docker instalado y en ejecución. Desde la carpeta del proyecto, construir localmente:
 ```bash
-docker build -t automax .
-docker run -p 8888:8888 automax
+docker build -t a374272/proyecto-segundo-parcial-equipo1 .
+docker run -p 8888:8888 a374272/proyecto-segundo-parcial-equipo1
 ```
 Para conservar los mensajes fuera del contenedor:
 ```bash
-docker run -p 8888:8888 -v "$(pwd)/data:/app/data" automax
+docker run -p 8888:8888 -v "$(pwd)/data:/app/data" a374272/proyecto-segundo-parcial-equipo1
 ```
 
 En Windows PowerShell también se puede utilizar:
 ```powershell
-docker run -p 8888:8888 -v "${PWD}/data:/app/data" automax
+docker run -p 8888:8888 -v "${PWD}/data:/app/data" a374272/proyecto-segundo-parcial-equipo1
 ```
 
 Abrir http://localhost:8888.
 
 ## Imagen en Docker Hub
-URL: https://hub.docker.com/r/a374272/proyecto-segundo-parcial-equipo1
+URL: https://hub.docker.com/repository/docker/a374272/proyecto-segundo-parcial-equipo1/general
 ```bash
 docker pull a374272/proyecto-segundo-parcial-equipo1
 docker run -p 8888:8888 a374272/proyecto-segundo-parcial-equipo1
