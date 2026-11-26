@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "marca": "Chevrolet",
+    "modelo": "Corvette Stingray",
+    "anio": 2026,
+    "precio": 8300,
+    "precioLista": 3311000,
+    "imagen": "/img/auto1.jpg",
+    "descripcion": "Deportivo de alto desempeño con motor central y diseño aerodinámico."
+  },
+  {
+    "id": 2,
+    "marca": "Chevrolet",
+    "modelo": "Corvette Grand Sport",
+    "anio": 2027,
+    "precio": 9400,
+    "precioLista": 3754500,
+    "imagen": "/img/auto2.jpg",
+    "descripcion": "Deportivo de alto desempeño con motor central y diseño aerodinámico."
+  },
+  {
+    "id": 3,
+    "marca": "Chevrolet",
+    "modelo": "Corvette Z06",
+    "anio": 2027,
+    "precio": 11050,
+    "precioLista": 4418600,
+    "imagen": "/img/auto3.jpg",
+    "descripcion": "Deportivo de alto desempeño con motor central y diseño aerodinámico."
+  },
+  {
+    "id": 4,
+    "marca": "Chevrolet",
+    "modelo": "Corvette ZR1",
+    "anio": 2027,
+    "precio": 14150,
+    "precioLista": 5662600,
+    "imagen": "/img/auto4.jpg",
+    "descripcion": "Deportivo de alto desempeño con motor central y diseño aerodinámico."
+  },
+  {
+    "id": 5,
+    "marca": "Chevrolet",
+    "modelo": "Corvette ZR1X",
+    "anio": 2027,
+    "precio": 15150,
+    "precioLista": 6065500,
+    "imagen": "/img/auto5.jpg",
+    "descripcion": "Deportivo de alto desempeño con motor central y diseño aerodinámico."
+  },
+  {
+    "id": 6,
+    "marca": "Chevrolet",
+    "modelo": "S10 Max",
+    "anio": 2027,
+    "precio": 1050,
+    "precioLista": 413900,
+    "imagen": "/img/auto6.jpg",
+    "descripcion": "Pick-up de doble cabina robusta para trabajo y aventura."
+  },
+  {
+    "id": 7,
+    "marca": "Chevrolet",
+    "modelo": "Montana",
+    "anio": 2026,
+    "precio": 1250,
+    "precioLista": 492300,
+    "imagen": "/img/auto7.jpg",
+    "descripcion": "Pick-up compacta urbana con gran versatilidad."
+  },
+  {
+    "id": 8,
+    "marca": "Chevrolet",
+    "modelo": "Silverado",
+    "anio": 2026,
+    "precio": 2100,
+    "precioLista": 843500,
+    "imagen": "/img/auto8.jpg",
+    "descripcion": "Pick-up de gran tamaño con capacidad de carga y remolque."
+  },
+  {
+    "id": 9,
+    "marca": "Chevrolet",
+    "modelo": "Colorado",
+    "anio": 2026,
+    "precio": 2650,
+    "precioLista": 1060900,
+    "imagen": "/img/auto9.jpg",
+    "descripcion": "Pick-up mediana lista para todo terreno."
+  },
+  {
+    "id": 10,
+    "marca": "Chevrolet",
+    "modelo": "Cheyenne",
+    "anio": 2026,
+    "precio": 2650,
+    "precioLista": 1069700,
+    "imagen": "/img/auto10.jpg",
+    "descripcion": "Pick-up de lujo con gran equipamiento."
+  },
+  {
+    "id": 11,
+    "marca": "Chevrolet",
+    "modelo": "Traverse",
+    "anio": 2027,
+    "precio": 2850,
+    "precioLista": 1145700,
+    "imagen": "/img/auto11.jpg",
+    "descripcion": "SUV familiar de tres filas de asientos."
+  },
+  {
+    "id": 12,
+    "marca": "Chevrolet",
+    "modelo": "Blazer EV",
+    "anio": 2026,
+    "precio": 3100,
+    "precioLista": 1245000,
+    "imagen": "/img/auto12.jpg",
+    "descripcion": "Eléctrico, silencioso y eficiente."
+  },
+  {
+    "id": 13,
+    "marca": "Chevrolet",
+    "modelo": "Tahoe",
+    "anio": 2026,
+    "precio": 4300,
+    "precioLista": 1722100,
+    "imagen": "/img/auto13.jpg",
+    "descripcion": "SUV grande con espacio y potencia para toda la familia."
+  },
+  {
+    "id": 14,
+    "marca": "Chevrolet",
+    "modelo": "Suburban",
+    "anio": 2026,
+    "precio": 4350,
+    "precioLista": 1739000,
+    "imagen": "/img/auto14.jpg",
+    "descripcion": "SUV extra grande para grupos y viajes largos."
+  },
+  {
+    "id": 15,
+    "marca": "Chevrolet",
+    "modelo": "Groove",
+    "anio": 2027,
+    "precio": 900,
+    "precioLista": 359800,
+    "imagen": "/img/auto15.jpg",
+    "descripcion": "SUV moderna con tecnología y seguridad para el día a día."
+  },
+  {
+    "id": 16,
+    "marca": "Chevrolet",
+    "modelo": "Captiva",
+    "anio": 2026,
+    "precio": 900,
+    "precioLista": 366800,
+    "imagen": "/img/auto16.jpg",
+    "descripcion": "SUV moderna con tecnología y seguridad para el día a día."
+  },
+  {
+    "id": 17,
+    "marca": "Chevrolet",
+    "modelo": "Spark EUV",
+    "anio": 2026,
+    "precio": 1000,
+    "precioLista": 396700,
+    "imagen": "/img/auto17.jpg",
+    "descripcion": "Eléctrico, silencioso y eficiente."
+  },
+  {
+    "id": 18,
+    "marca": "Chevrolet",
+    "modelo": "Tracker",
+    "anio": 2026,
+    "precio": 1050,
+    "precioLista": 424200,
+    "imagen": "/img/auto18.jpg",
+    "descripcion": "SUV moderna con tecnología y seguridad para el día a día."
+  },
+  {
+    "id": 19,
+    "marca": "Chevrolet",
+    "modelo": "Trax",
+    "anio": 2026,
+    "precio": 1200,
+    "precioLista": 473300,
+    "imagen": "/img/auto19.jpg",
+    "descripcion": "SUV moderna con tecnología y seguridad para el día a día."
+  },
+  {
+    "id": 20,
+    "marca": "Chevrolet",
+    "modelo": "Captiva Híbrida",
+    "anio": 2026,
+    "precio": 1300,
+    "precioLista": 528600,
+    "imagen": "/img/auto20.jpg",
+    "descripcion": "SUV moderna con tecnología y seguridad para el día a día."
+  },
+  {
+    "id": 21,
+    "marca": "Chevrolet",
+    "modelo": "Equinox EV",
+    "anio": 2026,
+    "precio": 2000,
+    "precioLista": 798500,
+    "imagen": "/img/auto21.jpg",
+    "descripcion": "Eléctrico, silencioso y eficiente."
+  },
+  {
+    "id": 22,
+    "marca": "Chevrolet",
+    "modelo": "Blazer",
+    "anio": 2025,
+    "precio": 2500,
+    "precioLista": 990900,
+    "imagen": "/img/auto22.jpg",
+    "descripcion": "SUV moderna con tecnología y seguridad para el día a día."
+  },
+  {
+    "id": 23,
+    "marca": "Chevrolet",
+    "modelo": "Aveo HB",
+    "anio": 2026,
+    "precio": 600,
+    "precioLista": 232900,
+    "imagen": "/img/auto23.jpg",
+    "descripcion": "Hatchback económico y práctico para la ciudad."
+  },
+  {
+    "id": 24,
+    "marca": "Chevrolet",
+    "modelo": "Aveo Sedán",
+    "anio": 2026,
+    "precio": 600,
+    "precioLista": 239800,
+    "imagen": "/img/auto24.jpg",
+    "descripcion": "Sedán compacto, económico y confiable."
+  },
+  {
+    "id": 25,
+    "marca": "Chevrolet",
+    "modelo": "Onix",
+    "anio": 2026,
+    "precio": 650,
+    "precioLista": 262400,
+    "imagen": "/img/auto25.jpg",
+    "descripcion": "Sedán moderno con diseño deportivo y buena tecnología."
+  }
+]
